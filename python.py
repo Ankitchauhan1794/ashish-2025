@@ -7,3 +7,6 @@ while a<=num:
     multi=a*m
     print(multi)
     a+=1
+
+
+    NOW I AM USING ASHISH'S REPOSITORY CODE FOR MY USE '
